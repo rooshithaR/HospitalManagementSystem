@@ -1,1 +1,2 @@
 Pharmacy Module 
+Pharmacy inventory feature 
