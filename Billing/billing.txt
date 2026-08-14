@@ -1,1 +1,5 @@
 Billing Module 
+Features:
+- Generate bill
+- Calculate total amount
+- Payment tracking
