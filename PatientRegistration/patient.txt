@@ -1,1 +1,5 @@
 Patient Registration Module 
+Features:
+- Register patient
+- Generate patient ID
+- Store patient details
