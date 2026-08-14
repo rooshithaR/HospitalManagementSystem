@@ -1,1 +1,5 @@
 Appointment Scheduling Module 
+Features:
+- Schedule appointment
+- Cancel appointment
+- View appointment
